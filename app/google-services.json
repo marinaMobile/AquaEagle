@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359491990322",
+    "project_id": "aquaeagle-8fc73",
+    "storage_bucket": "aquaeagle-8fc73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359491990322:android:5c733d2275064f79591d2b",
+        "android_client_info": {
+          "package_name": "com.hbo.hbono"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359491990322-5p6c41mngvdr8h72v155qo408s8dq5l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6PQYFzVr9EjYYsAqDGglwuAMKkD4qoSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359491990322-5p6c41mngvdr8h72v155qo408s8dq5l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
